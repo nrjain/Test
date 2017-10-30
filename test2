@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World</title>
+<!-- Include Moxtra JavaScript Library -->
+<script type="text/javascript" src="https://www.moxtra.com/api/js/moxtra-latest.js" id="moxtrajs"></script>
+</head>
+<body>
+<h3>Hello World
+<script>
+    alert( 'Hello, world!' );
+</script>
+</body>
+</html>
